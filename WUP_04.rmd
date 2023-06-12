@@ -54,6 +54,8 @@ theme(plot.title = element_text(hjust = 0.5)) +
 ggtitle("Fancy Box Plot")
 ```
 
+LT High School would not overlap with Junior College or Graduate, thus knowing that it is very likely to be different schooling. In addition, graduate does not overlap with High School. Therefore, it is also likelt to be different. Ultimately, LT High School and Graduate are not only different from one another they are both different that another type of schooling, such as High School and Junior College
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
