@@ -97,7 +97,7 @@ comparison <- emmeans(result, pairwise ~ DEGREE, adjust = "scheffe")
 print(comparison)
 ```
 
-The high school-graduate and the light high school graduate lines didn't cross the zero line, meaning they don't have zero in their confidence difference so there's no difference between these two difference categories. 
+The high school-graduate and the light high school graduate lines didn't cross the zero line, meaning they don't have zero in their confidence difference so there's a considerable difference between these two difference categories. 
 
 # Discussion and Conclusion
 
